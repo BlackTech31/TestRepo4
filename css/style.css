@@ -19,3 +19,16 @@ ul {
 body {
     background: grey;
 }
+
+
+section div {
+    color: red;
+    background-color: blue;
+    width: auto;
+    display: inline-flex;
+
+}
+
+#TrySomething {
+    color: rgb(20, 208, 20);
+}
