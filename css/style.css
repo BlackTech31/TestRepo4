@@ -1,3 +1,7 @@
+h1, li, div, p {
+    font-family: Arial, Helvetica, sans-serif, STKaiti;
+}
+
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
@@ -31,4 +35,7 @@ section div {
 
 #TrySomething {
     color: rgb(20, 208, 20);
+}
+p {
+    color: blue;
 }
