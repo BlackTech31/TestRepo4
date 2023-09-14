@@ -39,3 +39,11 @@ section div {
 p {
     color: blue;
 }
+
+.sectionDiv {
+ background-color: green; /*This is just for the backgournd for the whole sectionDiv tag.*/
+}
+
+.Div1 {
+    background-color: purple;
+}
